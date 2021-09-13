@@ -10,7 +10,7 @@ eyesO.jpg
 - date retrived: July 2021
 
 student object border/backround style
-(I used this free code to help me style the dynamic borders around the students' names)
+(I used this free code to help me style the borders around the students' names)
 - originally created by: Jad Limcaco
 - retrived from: https://codepen.io/jadlimcaco/pen/ExjGrqJ
 - date retrived: July 2021
