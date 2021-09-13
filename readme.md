@@ -1,5 +1,7 @@
 Webpage Development Camp: The Website of all websites
 
+Link to website: https://webcamp2021.000webhostapp.com/
+
 Code Ninjas Halifax
 
 - main index.html and style.css by: Sarah Pollock-Jordan
