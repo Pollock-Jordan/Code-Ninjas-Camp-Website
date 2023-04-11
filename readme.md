@@ -1,6 +1,6 @@
 Webpage Development Camp: The Website of all websites
 
-Link to website: https://webcamp2021.000webhostapp.com/
+Link to website: https://web.cs.dal.ca/~sarahp/camp_site/Code-Ninjas-Camp-Website/index.html
 
 Code Ninjas Halifax
 
